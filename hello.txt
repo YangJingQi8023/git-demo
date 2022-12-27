@@ -12,3 +12,4 @@ update_master
 update hot-fix
 push succeded
 update by test_clone
+github update
